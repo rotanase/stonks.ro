@@ -1,0 +1,21 @@
+baseURL = "https://stonks.ro/"
+languageCode = "ro-ro"
+title = "Stonks.ro"
+copyright = "Copyright &copy; 2020 - Robert"
+canonifyurls = true
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+
+
+[author]
+    name = "Robert"     #Author name
+    twitter = ""        #Twitter username
+
+[params]
+    tagline = "Gânduri. Analize. Stonks."
+    customCSS = []  #Optional Customised CSS
+    disableDarkModeCSS = false # disables css style for users using dark-mode
